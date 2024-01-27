@@ -5,7 +5,7 @@ import { useState } from "react";
 const NoteState = (props) => {
         const notesInitial = [
                 {
-                        "_id": "65ad32a2e3113b8f596c4d45",
+                        "_id": "65ad32a2e3113b8f596c4d451",
                         "user": "65ad2e043fb22fd8b36d116a",
                         "title": "Updated title",
                         "description": "Updated description",
@@ -14,7 +14,7 @@ const NoteState = (props) => {
                         "__v": 0
                 },
                 {
-                        "user": "65ad2e043fb22fd8b36d116a",
+                        "user": "65ad2e043fb22fd8b36d116a2",
                         "title": "Another title",
                         "description": "Another description",
                         "tag": "Another demo",
